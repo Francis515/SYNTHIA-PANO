@@ -7,6 +7,7 @@ Panomaramic images with fine annotation for semantic segmentation.
 
 ![Label](pics/label.png)
 ![Examples](pics/dataset5.png)
+![Video](https://youtu.be/--Mhldpd6nI)
 
 ## Paper
 
