@@ -1,6 +1,6 @@
 # SYNTHIA-PANO
 
-## Discription
+## Description
 
 SYNTHIA-PANO is the panoramic version of SYNTHIA dataset. Five sequences are included: Seqs02-summer, Seqs02-fall, Seqs04-summer, Seqs04-fall and Seqs05-summer.
 Panomaramic images with fine annotation for semantic segmentation.
