@@ -18,5 +18,6 @@ Video:
 [SYNTHIA-PANO](https://arxiv.org/abs/1909.00532)
 
 ## Download
+[Google Drive Link](https://drive.google.com/drive/folders/1loj19uFyDOQDYI1xwWM6FameR_fUxJnQ?usp=drive_link)
 
-[BaiduDisk Link](https://pan.baidu.com/s/13f9Xuz8lHUehrPtmvAq3Dw?pwd=af69) code:af69 
+[Baidu Disk Link](https://pan.baidu.com/s/13f9Xuz8lHUehrPtmvAq3Dw?pwd=af69) code:af69 
